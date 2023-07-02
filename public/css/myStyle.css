@@ -1,0 +1,10 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.nav-bg {
+  background-color: #7532f9;
+}
+.dropdown-toggle:hover {
+  cursor: pointer;
+}
